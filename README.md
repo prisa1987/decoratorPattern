@@ -1,0 +1,4 @@
+decoratorPattern
+================
+
+Example
